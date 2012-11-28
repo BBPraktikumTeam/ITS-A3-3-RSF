@@ -1,3 +1,11 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
 *.pydevproject
 .project
 .metadata
